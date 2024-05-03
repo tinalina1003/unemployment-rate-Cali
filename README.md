@@ -22,6 +22,6 @@ The dataset used includes Area Type (State level), Area Name (California only), 
 
 ![Unemployment Rate by Age Group over Time](https://github.com/tinalina1003/unemployment-rate-US/assets/127992819/6ba5522e-83b4-4925-b365-0dbf20c929de)
 
-<h3>Resources</h3>
+<h2>Resources</h2>
 
 [Dataset](https://www.kaggle.com/code/istiyaque6ty3/storytelling-unemployment-in-california)
